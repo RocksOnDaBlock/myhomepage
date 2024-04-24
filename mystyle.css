@@ -1,7 +1,7 @@
 body {
   background-color: red;
 }
-
+<style>
 .button {
   border: none;
   color: white;
@@ -36,3 +36,4 @@ body {
        z-index: 999;
         
      }
+</style>
