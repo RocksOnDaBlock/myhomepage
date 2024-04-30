@@ -14,7 +14,7 @@
 
 .navbar {
   overflow: hidden;
-  background-color: #0040ff;
+  background-color: #c41271;
 
 }
 
@@ -33,7 +33,7 @@
 }
 
 .navbar a:hover {
-  background-color: #ddd;
+  background-color: #c41247;
   color: black;
 }
 
@@ -77,7 +77,7 @@
 .footer {
   padding: 20px;
   text-align: center;
-  background: #996666;
+  background: #5491e8;
 }
 
 
