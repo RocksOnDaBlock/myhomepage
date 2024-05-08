@@ -40,7 +40,7 @@
 * {
   box-sizing: border-box;
 }
-
+/* temp remove rows --
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -57,7 +57,7 @@
   background-color: white;
   padding: 20px;
 }
-
+*/
 
 .aboutme {
   padding: 10px;
