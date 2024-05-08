@@ -59,6 +59,17 @@
 }
 
 
+.aboutme {
+  padding: 10px;
+  text-align: center;
+  backgroud: #54e870
+  
+  }
+
+
+
+
+
 @media screen and (max-width:
 700px) {
   .row {
