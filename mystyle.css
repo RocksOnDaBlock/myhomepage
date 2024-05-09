@@ -2,22 +2,18 @@
 
 .header {
   padding: 80px;
-  
-  background: #3b8bb4
-  color: white;
-
-}
+ }
 
 .header h1 {
   font-size: 40px;
   text-align: center;
-
+  color: hotpink;
 }
 
 .header p {
   font-size: 20px;
   text-align: center;
-
+  color: hotpink;
 }
 
 .navbar {
@@ -103,21 +99,7 @@
   }
 }
 
-.glow { 
-  color: #e60073;
-  animation: glow 1s ease-in-out
-infinite alternate;
-}
 
-@-webkit-key-frames glow {
-  from {
-  text-shadow: 0 0 10px #e60073, 0 0 20px #e60073, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-}
-
-to {
-  text-shadow: 0 0 20px #ff4da6, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
- }
-}
 
 .footer {
   position: fixed;
