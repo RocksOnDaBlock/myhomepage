@@ -99,7 +99,9 @@
   }
 }
 
-
+.table  {
+  margin: auto;
+}
 
 .footer {
   position: fixed;
