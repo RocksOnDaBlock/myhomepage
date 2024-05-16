@@ -132,6 +132,7 @@
   background: #5491e8;
   bottom: 0%;
   left: 0%;
+  font-size: 10px;
 }
 
 
@@ -224,9 +225,26 @@
   to {opacity: 1}
 }
 
+.buttonhomeButton {
+  background-color: white;
+  color: black;
+  border: 2px solid #04AA6D;
+}
 
+.buttonhomeButton:hover {
+  background-color: #04AA6D;
+  color: white;
+}
 
-
+.buttonhomeButton {
+       top:30%;
+       left:50%;
+       width:100px;
+       height:20px;
+       position: absolute;
+       z-index: 2;
+        
+     }
 
 
 
