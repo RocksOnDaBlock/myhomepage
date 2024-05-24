@@ -127,7 +127,7 @@ background-color: lightblue;
   }
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 600px) {
   .blenderImages {
   display: flex;
   justify-content: center;
