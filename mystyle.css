@@ -111,7 +111,7 @@ background-color: lightblue;
 
     }
 
-/*
+
 @media screen and (max-width:
 700px) {
   .row {
@@ -126,12 +126,12 @@ background-color: lightblue;
     width: 100%;
   }
 }
-*/
+
 @media only screen and (max-width: 700px) {
-  .body {
-    font-size: 12px;
-    width: 100%;
-    margin: 0;
+  .blenderImages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   }
 }
 
