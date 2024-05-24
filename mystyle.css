@@ -1,4 +1,6 @@
-<style>
+body {
+background-color: lightblue;
+}
 
 .header {
   padding: 80px;
@@ -89,21 +91,25 @@
   padding: 2px;
   text-align: center;
   background-color: #54e870;
-  
+
   }
 
 .aboutme p {
   text-align: center;
   background-color: red;
-  
+
   }
-  
+
 .aboutme p2 {
   text-align: center;
   background-color: orange;
-  
-  }
 
+  }
+  .aboutme p3 {
+    text-align: center;
+    background-color: rgb(0, 255, 213);
+
+    }
 
 
 @media screen and (max-width:
@@ -338,4 +344,3 @@ color:#000000;
 
 
 
-</style>
