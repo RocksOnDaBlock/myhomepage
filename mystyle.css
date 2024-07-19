@@ -207,6 +207,95 @@ text-align: center;
 }
 
 
+.lensesButton {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  text-align: center; /* Center align text horizontally */
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 2px solid #0cdabe;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  margin: 10px;
+}
+
+
+.lensesButton:hover {
+  background-color: #0cdabe;
+  color: white;
+}
+
+.twitchButton {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  text-align: center; /* Center align text horizontally */
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 2px solid #0cdabe;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  margin: 10px;
+}
+
+
+.instaButton:hover {
+  background-color: #0cdabe;
+  color: white;
+}
+
+.instaButton {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  text-align: center; /* Center align text horizontally */
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 2px solid #0cdabe;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  margin: 10px;
+}
+
+
+.xButton:hover {
+  background-color: #0cdabe;
+  color: white;
+}
+
+.xButton {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  text-align: center; /* Center align text horizontally */
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 2px solid #0cdabe;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  margin: 10px;
+}
+
+
+.twitchButton:hover {
+  background-color: #0cdabe;
+  color: white;
+}
+
+
+
+
+
+
 .smiley {
   text-align: center;
 
