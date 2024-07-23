@@ -133,6 +133,7 @@ background-color: lightblue;
 .table  {
   margin-left: auto;
   margin-right:auto;
+  text-align: center;
 }
 
 .footer {
@@ -171,22 +172,18 @@ text-align: center;
   margin: 4px 2px;
   transition-duration: 0.1s;
   cursor: pointer;
-
-
 }
-
-
-
 
 .buttonContainer {
-  text-align: center; /* Center align the contents */
-  padding: 10px 10px 10px 10px; /* Adjust padding as needed */
+  display: flex;
+  justify-content: center;
+  padding: 10px; /* Adjust padding as needed */
 }
 
-
-
 .homeButton {
-  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100px;
   height: 50px;
   text-align: center; /* Center align text horizontally */
@@ -199,7 +196,6 @@ text-align: center;
   transition-duration: 0.1s;
   margin: 10px;
 }
-
 
 .homeButton:hover {
   background-color: #0cdabe;
