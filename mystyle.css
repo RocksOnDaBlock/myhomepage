@@ -46,24 +46,25 @@ background-color: lightblue;
 
 }
 
+.navbar {
+  display: flex;
+  justify-content: center; /* Center the navbar contents horizontally */
+  background-color: #c41271;
+}
+
 .navbar a {
-  float: left;
   display: block;
   color: white;
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
-
-}
-
-.navbar a.right {
-  float: right;
 }
 
 .navbar a:hover {
   background-color: #c41247;
   color: black;
 }
+
 
 * {
   box-sizing: border-box;
