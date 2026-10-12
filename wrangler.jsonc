@@ -6,6 +6,10 @@
     "directory": "./",
     "not_found_handling": "404-page"
   },
+  "routes": [
+    { "pattern": "dustingillis.online", "custom_domain": true },
+    { "pattern": "www.dustingillis.online", "custom_domain": true }
+  ],
   "workers_dev": true,
   "preview_urls": false
 }
